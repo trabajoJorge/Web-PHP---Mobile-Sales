@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE solicitudes SYSTEM "solicitudes.dtd">
+<solicitudes ult_id="s_6">
+    <solicitud id="s_1">
+        <movil_id>6</movil_id>
+        <usuario_id>u_1</usuario_id>
+        <fecha_solicitud>13-12-2020</fecha_solicitud>
+    </solicitud>
+    <solicitud id="s_2">
+        <movil_id>8</movil_id>
+        <usuario_id>u_4</usuario_id>
+        <fecha_solicitud>11-12-2020</fecha_solicitud>
+    </solicitud>
+    <solicitud id="s_3">
+        <movil_id>6</movil_id>
+        <usuario_id>u_2</usuario_id>
+        <fecha_solicitud>12-12-2020</fecha_solicitud>
+    </solicitud>
+    <solicitud id="s_4">
+        <movil_id>7</movil_id>
+        <usuario_id>u_3</usuario_id>
+        <fecha_solicitud>13-12-2020</fecha_solicitud>
+    </solicitud>
+    <solicitud id="s_5">
+        <movil_id>8</movil_id>
+        <usuario_id>u_2</usuario_id>
+        <fecha_solicitud>13-12-2020</fecha_solicitud>
+    </solicitud>
+    <solicitud id="s_6">
+        <movil_id>6</movil_id>
+        <usuario_id>u_3</usuario_id>
+        <fecha_solicitud>13-12-2020</fecha_solicitud>
+    </solicitud>
+</solicitudes>

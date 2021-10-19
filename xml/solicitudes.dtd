@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT solicitudes (solicitud)*>
+<!ATTLIST solicitudes ult_id IDREF #REQUIRED>
+
+<!ELEMENT solicitud (movil_id, usuario_id, fecha_solicitud)>
+<!ATTLIST solicitud id ID #REQUIRED>
+<!ELEMENT movil_id (#PCDATA)>
+<!ELEMENT usuario_id (#PCDATA)>
+<!ELEMENT fecha_solicitud (#PCDATA)>

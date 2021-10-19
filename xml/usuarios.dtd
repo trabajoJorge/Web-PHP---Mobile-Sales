@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT usuarios (usuario)*>
+<!ATTLIST usuarios ult_id IDREF #REQUIRED>
+
+<!ELEMENT usuario (nombre, email, password)>
+<!ATTLIST usuario id ID #REQUIRED>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT password (#PCDATA)>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+DTD que especifica la información que debe almacenar un móvil.
+-->
+<!ELEMENT comentarios (comentario)*>
+<!ATTLIST comentarios ult_id IDREF #REQUIRED>
+
+<!ELEMENT comentario (movil_id, usuario_id, fecha_publicado, descripcion)>
+<!ATTLIST comentario id ID #REQUIRED>
+<!ELEMENT movil_id (#PCDATA)>
+<!ELEMENT usuario_id (#PCDATA)>
+<!ELEMENT fecha_publicado (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>

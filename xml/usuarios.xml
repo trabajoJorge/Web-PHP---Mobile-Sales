@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE usuarios SYSTEM "usuarios.dtd">
+<usuarios ult_id="u_4">
+    <usuario id="u_1">
+        <nombre>Jorge</nombre>
+        <email>j@j.com</email>
+        <password>Jorge</password>
+    </usuario>
+    <usuario id="u_2">
+        <nombre>Aitor</nombre>
+        <email>a@a.com</email>
+        <password>Aitor</password>
+    </usuario>
+    <usuario id="u_3">
+        <nombre>Maider</nombre>
+        <email>m@m.com</email>
+        <password>Maider</password>
+    </usuario>
+    <usuario id="u_4">
+        <nombre>Bal</nombre>
+        <email>b@b.com</email>
+        <password>Bal</password>   
+    </usuario>
+</usuarios>

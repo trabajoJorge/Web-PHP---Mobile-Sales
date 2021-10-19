@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE comentarios SYSTEM "comentarios.dtd">
+<comentarios ult_id="c_3">
+    <comentario id="c_1">
+        <movil_id>6</movil_id>
+        <usuario_id>u_3</usuario_id>
+        <fecha_publicado>12-12-2020</fecha_publicado>
+        <descripcion>Este móvil, para el precio que tiene, es de muy buena calidad, sabiendo que es de Samsung. Es mucho mejor que una mierda de iPhone que se rompe con cada actualización. Además, este móvil te llega con cagador y auriculares.&#13; Jodete, Apple. </descripcion>
+    </comentario>
+    <comentario id="c_2">
+        <movil_id>6</movil_id>
+        <usuario_id>u_4</usuario_id>
+        <fecha_publicado>12-12-2020</fecha_publicado>
+        <descripcion>Ni tan mal. Aunque después de 5 años de uso la batería no aguanta ya nada y como está sellado pues no es fácil de reemplazar.</descripcion>
+    </comentario>
+    <comentario id="c_3">
+        <movil_id>6</movil_id>
+        <usuario_id>u_4</usuario_id>
+        <fecha_publicado>13-12-2020</fecha_publicado>
+        <descripcion>Un móvil con una buena cantidad de batería (ironía).</descripcion>
+    </comentario>
+</comentarios>
